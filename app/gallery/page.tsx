@@ -21,32 +21,32 @@ const galleryImages = [
   },
   {
     id: '4',
-    src: 'https://images.unsplash.com/photo-1517668808822-9ebb02ae2a0e?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1453614512568-c4024d13c247?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Coffee brewing',
   },
   {
     id: '5',
-    src: 'https://images.unsplash.com/photo-1508520184108-3cbc2c9d559a?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1511081692775-05d0f180a065?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Pastry display',
   },
   {
     id: '6',
-    src: 'https://images.unsplash.com/photo-1521017714735-f8b56e1ea89a?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1542372147193-a7aca54189cd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Cozy cafe seating',
   },
   {
     id: '7',
-    src: 'https://images.unsplash.com/photo-1514432324607-2e467f4af445?w=600&h=400&fit=crop',
+    src: 'https://plus.unsplash.com/premium_photo-1663932464735-e0946d833749?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Coffee and pastry pair',
   },
   {
     id: '8',
-    src: 'https://images.unsplash.com/photo-1520701686378-be0199881033?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1594302424897-331b1e79f96e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Modern coffee cup',
   },
   {
     id: '9',
-    src: 'https://images.unsplash.com/photo-1505778276668-fc4ee2851212?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1637178628144-472a67245751?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Espresso preparation',
   },
 ];
