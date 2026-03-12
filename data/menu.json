@@ -1,0 +1,308 @@
+{
+  "categories": [
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Espresso",
+          "description": "Rich and intense single shot of our signature blend",
+          "price": "Rp20.000",
+          "image": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "cappuccino",
+          "name": "Cappuccino",
+          "description": "Smooth espresso with velvety steamed milk and foam",
+          "price": "Rp22.000",
+          "image": "https://plus.unsplash.com/premium_photo-1670445287762-372300cdcb77?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "latte",
+          "name": "Latte",
+          "description": "Creamy espresso and silky steamed milk",
+          "price": "Rp22.000",
+          "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "americano",
+          "name": "Americano",
+          "description": "Double espresso with hot water for a smooth finish",
+          "price": "Rp20.000",
+          "image": "https://images.unsplash.com/photo-1551030173-122aabc4489c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "mocha",
+          "name": "Mocha",
+          "description": "A delightful mix of espresso, chocolate, and steamed milk.",
+          "price": "Rp25.000",
+          "image": "https://plus.unsplash.com/premium_photo-1668970851336-6c81cc888ba7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "macchiato",
+          "name": "Macchiato",
+          "description": "Espresso 'stained' with a small amount of frothy milk.",
+          "price": "Rp21.000",
+          "image": "https://images.unsplash.com/photo-1656423371532-90a4936b0e45?q=80&w=1185&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "flat-white",
+          "name": "Flat White",
+          "description": "Espresso with microfoam, creating a velvety texture.",
+          "price": "Rp23.000",
+          "image": "https://images.unsplash.com/photo-1577968897966-3d4325b36b61?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "v-60",
+          "name": "V60 Pour Over",
+          "description": "Clean and crisp single-origin coffee, manually brewed.",
+          "price": "Rp28.000",
+          "image": "https://images.unsplash.com/photo-1622088891722-c6f91b80627f?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "cold-brew",
+          "name": "Cold Brew",
+          "description": "Slow-steeped coffee, smooth and low in acidity.",
+          "price": "Rp27.000",
+          "image": "https://images.unsplash.com/photo-1561641377-f7456d23aa9b?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "affogato",
+          "name": "Affogato",
+          "description": "A scoop of vanilla ice cream drowned in hot espresso.",
+          "price": "Rp28.000",
+          "image": "https://images.unsplash.com/photo-1594631661960-34762327295a?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": "non-coffee",
+      "name": "Non-Coffee",
+      "items": [
+        {
+          "id": "matcha-latte",
+          "name": "Matcha Latte",
+          "description": "Rich and creamy matcha with steamed milk",
+          "price": "Rp25.000",
+          "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "hot-chocolate",
+          "name": "Hot Chocolate",
+          "description": "Rich and creamy hot chocolate with whipped cream",
+          "price": "Rp18.000",
+          "image": "https://plus.unsplash.com/premium_photo-1669374537636-518629de3b85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "chai-latte",
+          "name": "Chai Latte",
+          "description": "Aromatic blend of chai spices with steamed milk",
+          "price": "Rp24.000",
+          "image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "iced-tea",
+          "name": "Iced Tea",
+          "description": "Refreshing selection of iced teas",
+          "price": "Rp15.000",
+          "image": "https://media.istockphoto.com/id/2167178823/id/foto/es-teh-hitam-lemon-dengan-panci-gula-dan-sendok-disajikan-dalam-gelas-sekali-pakai-yang.jpg?s=1024x1024&w=is&k=20&c=UEqznaXH6WLCZ5XDBKsX0kstAjWkePgigtUnAVIcZk4="
+        },
+        {
+          "id": "red-velvet-latte",
+          "name": "Red Velvet Latte",
+          "description": "A sweet and velvety drink with a hint of cocoa.",
+          "price": "Rp26.000",
+          "image": "https://media.istockphoto.com/id/936077864/id/foto/dua-latte-warna-bit-berada-di-latar-belakang-marmer.jpg?s=1024x1024&w=is&k=20&c=uZxD91797AW3Clnivi9qxUKrsuFrySHuQPn1FT0N8_k="
+        },
+        {
+          "id": "lemon-tea",
+          "name": "Iced Lemon Tea",
+          "description": "Classic iced tea with a zesty lemon twist.",
+          "price": "Rp16.000",
+          "image": "https://media.istockphoto.com/id/690507630/id/foto/mason-jar-gelas-es-teh-dengan-jerami-terisolasi-di-atas-putih.jpg?s=1024x1024&w=is&k=20&c=bFlCdvsFoBzDQdWL2UptV6qIi6B0XW_gMrIVuhou9XE="
+        },
+        {
+          "id": "taro-latte",
+          "name": "Taro Latte",
+          "description": "Sweet and creamy taro root with steamed milk.",
+          "price": "Rp26.000",
+          "image": "https://media.istockphoto.com/id/2191520422/id/foto/close-up-tangan-yang-memegang-secangkir-latte-art-ungu.jpg?s=1024x1024&w=is&k=20&c=8u9Cg5_1MDmaeDPi_-_MbKiWgsF8FzDwLgN4oorbtzc="
+        },
+        {
+          "id": "strawberry-smoothie",
+          "name": "Strawberry Smoothie",
+          "description": "Fresh strawberries blended with yogurt and a touch of honey.",
+          "price": "Rp30.000",
+          "image": "https://media.istockphoto.com/id/1432272269/id/foto/smooties-campuran.jpg?s=1024x1024&w=is&k=20&c=zqxkm7-qpyKj-JmhPYtZKLbybd3q5FXXpplXtEKHKSo="
+        },
+        {
+          "id": "lychee-tea",
+          "name": "Iced Lychee Tea",
+          "description": "Sweet lychee flavor infused in refreshing iced tea.",
+          "price": "Rp18.000",
+          "image": "https://media.istockphoto.com/id/531425254/id/foto/es-teh-lychee.jpg?s=1024x1024&w=is&k=20&c=kOQX19orGcgasgU0ceVQ5NWN0bE2pCVwU0Ks1KRW4o4="
+        },
+        {
+          "id": "virgin-mojito",
+          "name": "Virgin Mojito",
+          "description": "A refreshing mix of mint, lime, and soda water.",
+          "price": "Rp22.000",
+          "image": "https://media.istockphoto.com/id/541603446/id/foto/koktail-mojito-dan-bahan-bahan-di-atas-latar-belakang-hijau.jpg?s=1024x1024&w=is&k=20&c=n8ke_x1wIrDlBQKm9vNQanmkvNbSe2TjNb_9nVUunds="
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "items": [
+        {
+          "id": "croissant",
+          "name": "Croissant",
+          "description": "Buttery and flaky French pastry",
+          "price": "Rp18.000",
+          "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "avocado-toast",
+          "name": "Avocado Toast",
+          "description": "Creamy avocado on toasted sourdough",
+          "price": "Rp35.000",
+          "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "breakfast-sandwich",
+          "name": "Breakfast Sandwich",
+          "description": "Egg, cheese, and bacon on a fresh bagel",
+          "price": "Rp40.000",
+          "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "salad",
+          "name": "Fresh Garden Salad",
+          "description": "Seasonal vegetables with house vinaigrette",
+          "price": "Rp45.000",
+          "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "chicken-sandwich",
+          "name": "Chicken Sandwich",
+          "description": "Grilled chicken breast with lettuce and tomato.",
+          "price": "Rp42.000",
+          "image": "https://images.unsplash.com/photo-1592415486689-125cbbfcbee2?q=80&w=735&auto=format&fit=crop"
+        },
+        {
+          "id": "french-fries",
+          "name": "French Fries",
+          "description": "Crispy golden french fries served with ketchup.",
+          "price": "Rp20.000",
+          "image": "https://media.istockphoto.com/id/2243716801/id/foto/close-up-kentang-goreng-berbumbu-di-keranjang-kawat.jpg?s=1024x1024&w=is&k=20&c=j5Y3S7cyUiegDOtpovFAuCX5t_yygj64Kei9fR-pLbQ="
+        },
+        {
+          "id": "pasta-carbonara",
+          "name": "Pasta Carbonara",
+          "description": "Classic pasta with creamy egg sauce, cheese, and smoked beef.",
+          "price": "Rp55.000",
+          "image": "https://media.istockphoto.com/id/2219769902/id/foto/pasta-lezat-carbonara-dengan-bacon-terisolasi-di-atas-putih.jpg?s=1024x1024&w=is&k=20&c=ZfbEMoPye-GhFgxJOEVFfhYyg1lMouDGI4BysE1xg5E="
+        },
+        {
+          "id": "nasi-goreng",
+          "name": "Nasi Goreng Spesial",
+          "description": "Indonesian fried rice with chicken, egg, and crackers.",
+          "price": "Rp45.000",
+          "image": "https://media.istockphoto.com/id/1398317278/id/foto/nasi-goreng-thailand-dengan-udang-daun-bawang-jeruk-nipis-dengan-latar-belakang-kayu-tampak.jpg?s=1024x1024&w=is&k=20&c=_MWb6BmCn2aTwvtI9HhxVEhjcYDzw1IBTNXfCiG1TbY="
+        },
+        {
+          "id": "tuna-sandwich",
+          "name": "Tuna Mayo Sandwich",
+          "description": "A delicious sandwich filled with tuna and mayonnaise.",
+          "price": "Rp38.000",
+          "image": "https://media.istockphoto.com/id/512802050/id/foto/close-up-dari-tuna-sandwich.jpg?s=612x612&w=0&k=20&c=i0QM7lkuKdCfK36EOK5aCBFxiZF9rBjFYfgdKKQnUWc="
+        },
+        {
+          "id": "onion-rings",
+          "name": "Onion Rings",
+          "description": "Crispy fried onion rings served with tartar sauce.",
+          "price": "Rp25.000",
+          "image": "https://media.istockphoto.com/id/831978060/id/foto/cincin-cumi-goreng.jpg?s=612x612&w=0&k=20&c=IzpI-qjKJ-oJlisVKES1BK1xqRsq4WBTna1e4AuKR0s="
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "Dessert",
+      "items": [
+        {
+          "id": "brownie",
+          "name": "Chocolate Brownie",
+          "description": "Fudgy chocolate brownie with nuts",
+          "price": "Rp25.000",
+          "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "cheesecake",
+          "name": "Cheesecake Slice",
+          "description": "Creamy New York style cheesecake",
+          "price": "Rp30.000",
+          "image": "https://media.istockphoto.com/id/1225491381/id/foto/cheesecake-dengan-saus-karamel.jpg?s=1024x1024&w=is&k=20&c=KBTHx_NiabjC-JMFtfn3nnJ_pY5MiKdWdy963deO2Kc="
+        },
+        {
+          "id": "donut",
+          "name": "Glazed Donut",
+          "description": "Soft and fluffy glazed donut",
+          "price": "Rp15.000",
+          "image": "https://media.istockphoto.com/id/183046378/id/foto/lusinan-donat-berkaca-kaca.jpg?s=612x612&w=0&k=20&c=AZHotwoJLdjmHkpjxBAumhPQwEGjwGQ4PNKasX_SXWo="
+        },
+        {
+          "id": "macarons",
+          "name": "French Macarons",
+          "description": "Assorted flavors of delicate macarons",
+          "price": "Rp20.000",
+          "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&h=300&fit=crop"
+        },
+        {
+          "id": "muffin",
+          "name": "Blueberry Muffin",
+          "description": "A soft muffin bursting with fresh blueberries.",
+          "price": "Rp18.000",
+          "image": "https://images.unsplash.com/photo-1558303420-f814d8a590f5?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "ice-cream",
+          "name": "Ice Cream Scoop",
+          "description": "A scoop of your favorite ice cream flavor.",
+          "price": "Rp15.000",
+          "image": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?q=80&w=687&auto=format&fit=crop"
+        },
+        {
+          "id": "creme-brulee",
+          "name": "Creme Brulee",
+          "description": "Rich custard base with a layer of hardened caramelized sugar.",
+          "price": "Rp28.000",
+          "image": "https://images.unsplash.com/photo-1676300184943-09b2a08319a3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "panna-cotta",
+          "name": "Panna Cotta",
+          "description": "Italian dessert of sweetened cream thickened and molded.",
+          "price": "Rp27.000",
+          "image": "https://images.unsplash.com/photo-1613505411792-208b15f862b0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "waffle-ice-cream",
+          "name": "Waffle with Ice Cream",
+          "description": "Crispy waffle topped with a scoop of vanilla ice cream and chocolate sauce.",
+          "price": "Rp35.000",
+          "image": "https://images.unsplash.com/photo-1656517092618-0902a2f8b5ac?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "apple-pie",
+          "name": "Apple Pie",
+          "description": "Classic apple pie with a flaky crust and sweet apple filling.",
+          "price": "Rp28.000",
+          "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  ]
+}

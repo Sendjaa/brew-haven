@@ -1,0 +1,39 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Andi Wijaya",
+      "rating": 5,
+      "comment": "Kopi V60-nya luar biasa, beans-nya fresh dan aromanya sangat kuat. Tempat favorit buat WFH!",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=687&auto=format&fit=crop"
+    },
+    {
+      "id": "2",
+      "name": "Siti Aminah",
+      "rating": 4,
+      "comment": "Matcha Latte-nya pas, tidak terlalu manis. Suasananya tenang dan pelayanannya ramah banget.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=687&auto=format&fit=crop"
+    },
+    {
+      "id": "3",
+      "name": "Budi Santoso",
+      "rating": 5,
+      "comment": "Nasi Goreng Spesialnya juara! Porsinya mengenyangkan dan rasanya otentik. Cocok buat makan siang.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=687&auto=format&fit=crop"
+    },
+    {
+      "id": "4",
+      "name": "Rina Kartika",
+      "rating": 5,
+      "comment": "Creme Brulee-nya lembut banget. Salah satu dessert terbaik yang pernah saya coba di cafe.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1170&auto=format&fit=crop"
+    },
+    {
+      "id": "5",
+      "name": "Dewi Lestari",
+      "rating": 4,
+      "comment": "Espresso-nya kuat dan mantap, cocok untuk pecinta kopi sejati. Tempatnya cozy banget buat nongkrong.",
+      "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=687&auto=format&fit=crop"
+    }
+]
+}

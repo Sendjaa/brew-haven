@@ -8,6 +8,3 @@ node_modules/
 .env*.local
 .DS_Store
 
-# data menu dan testimoni
-data/menu.json
-data/testimoni.json
